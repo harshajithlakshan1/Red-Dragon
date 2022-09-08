@@ -29,11 +29,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.vcardowner = ['+94778741763'] // owner number
+global.ownername = "𝙹𝙸𝚃𝙷𝙰_𝚋𝚘𝚒" // owner name
+global.tiktok = "tiktok.com/@__jitha__boi__2" // tiktok chanel name
+global.socialm = "GitHub: harshajithlakshan1" "instagram: harshajith.lakshan" // github or insta name
+global.location = "singapore, srilanka, AAmpara" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -47,12 +47,12 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.owner = ['+94753389372']
+global.ownertag = '+94753389372' //your tag number
+global.botname = '𝙹𝙸𝚃𝙷𝙰_𝚋𝚘𝚒- 𝘉𝘖𝘛' //ur bot name
+global.packname = "𝙹𝙸𝚃𝙷𝙰_𝚋𝚘𝚒ᵇᵒᵗ - Sticker" // sticker packname
+global.author = "𝙹𝙸𝚃𝙷𝙰_𝚋𝚘𝚒ᵇᵒᵗ" // sticker author
+global.dragonemoji = '✨' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
@@ -61,7 +61,7 @@ global.premium = ['+380944814219'] //ur premium numbers
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['','!','.','✋','♨️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
