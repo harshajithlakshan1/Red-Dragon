@@ -11,8 +11,22 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = ````👋 Hi! I am online now.```
+
+*HOW CAN I HELP YOU..🎉*
+
+*𝙔𝙊𝙐 𝘾𝘼𝙉 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿 𝙀𝙉𝙀𝙔𝙏𝙃𝙄𝙉𝙂 𝙐𝙎𝙀 𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋 🖥️*
+
+_🤖 I  αɱ 𝙹𝙸𝚃𝙷𝙰_𝚋𝚘𝚒 αɳ υʂҽɾ Ⴆσƚ ϝσɾ ɯԋαƚʂαρρ._
+
+
+*𝘋𝘖𝘕'𝘛 𝘗𝘈𝘚𝘛 𝘗𝘙𝘖𝘕 𝘓𝘐𝘕𝘒..𝘐𝘍 𝘠𝘖𝘜 𝘗𝘈𝘚𝘛 𝘗𝘙𝘖𝘕𝘓𝘐𝘕𝘒 𝘠𝘖𝘜 𝘉𝘓𝘖𝘊𝘒 𝘛𝘏𝘐𝘚 𝘉𝘖𝘛 🛑*
+
+
+*🧜‍♀️Have a nice day!🧜‍♀️*
+
+     ᶠᵒˡˡᵒʷ ᵐᵉ ᵘˢᵉ ᵗʰⁱˢ ˡⁱⁿᵏ ᴶᴵᵀᴴᴬ_ᵇᵒⁱ
+✋ How can i help you♨️` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -33,7 +47,7 @@ global.vcardowner = ['+94778741763'] // owner number
 global.ownername = "𝙹𝙸𝚃𝙷𝙰_𝚋𝚘𝚒" // owner name
 global.tiktok = "tiktok.com/@__jitha__boi__2" // tiktok chanel name
 global.socialm = "GitHub: harshajithlakshan1" "instagram: harshajith.lakshan" // github or insta name
-global.location = "singapore, srilanka, AAmpara" // location
+global.location = "singapore, srilanka, Ampara" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -47,8 +61,8 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+94753389372']
-global.ownertag = '+94753389372' //your tag number
+global.owner = ['94778741763']
+global.ownertag = '94778741763' //your tag number
 global.botname = '𝙹𝙸𝚃𝙷𝙰_𝚋𝚘𝚒- 𝘉𝘖𝘛' //ur bot name
 global.packname = "𝙹𝙸𝚃𝙷𝙰_𝚋𝚘𝚒ᵇᵒᵗ - Sticker" // sticker packname
 global.author = "𝙹𝙸𝚃𝙷𝙰_𝚋𝚘𝚒ᵇᵒᵗ" // sticker author
@@ -56,7 +70,7 @@ global.dragonemoji = '✨' // Menu emoji
 global.footer = '[ ◉ 𝙹𝙸𝚃𝙷𝙰_𝚋𝚘𝚒ᵇᵒᵗ ]' //
 
 //database
-global.premium 94753389373'] //ur premium numbers
+global.premium 94778741763'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
